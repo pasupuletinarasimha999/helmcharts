@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  letsencryptcerts:
+  - apiVersion: v2
+    appVersion: 0.1.0
+    created: "2024-06-02T18:01:30.7867873+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 3c6a37c811b5f4eeef38a1bc9824184cc5b7a0b8723121c5623a8ea3b3a0d93f
+    name: letsencryptcerts
+    type: application
+    urls:
+    - https://pasupuletinarasimha999.github.io/helmcharts/letsencryptcerts/letsencryptcerts-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-06-02T18:01:30.7840482+05:30"
