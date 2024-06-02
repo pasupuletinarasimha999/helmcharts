@@ -3,12 +3,22 @@ entries:
   narasimhachart:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-06-02T14:00:13.2214126+05:30"
+    created: "2024-06-02T14:04:10.4436417+05:30"
     description: A Helm chart for Kubernetes
-    digest: 863d1cf6e92b8208056ee982db7f43193e5532e07c0419d02f853c7720c65056
+    digest: 86688dd28c9f6342722a9c36537f02d4950dc15986087ce650f6547130b7abbf
     name: narasimhachart
     type: application
     urls:
     - https://pasupuletinarasimha999.github.io/helmcharts/narasimhachart-0.1.0.tgz
     version: 0.1.0
-generated: "2024-06-02T14:00:13.2176671+05:30"
+  - apiVersion: v2
+    appVersion: 0.1.0
+    created: "2024-06-02T14:04:10.4441467+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 863d1cf6e92b8208056ee982db7f43193e5532e07c0419d02f853c7720c65056
+    name: narasimhachart
+    type: application
+    urls:
+    - https://pasupuletinarasimha999.github.io/helmcharts/helmcharts/narasimhachart-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-06-02T14:04:10.4401854+05:30"
