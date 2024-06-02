@@ -1,0 +1,9 @@
+kubernetesClusterDomain: cluster.local
+namespace: my-app
+dnsNames: www.krazyworks.shop
+issuerRef: {}
+issuerRef:
+  name: letsencrypt-prod
+  secretName: miniapi-production-certificate
+privateKeySecrtRef:
+  name: account-key-prod  # Provide the actual secret name here
